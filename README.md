@@ -52,11 +52,11 @@ This module covers how to assess model performance on unseen data, starting with
 
 ## Module 5: Complete Project
 
-In this concluding module, you’ll review everything in a single project on Rain Prediction in Australia.
+In this concluding module, you’ll review everything in a single project.
 
 **Notes:** This project will integrate the concepts and techniques learned in the previous modules. Focus on the entire machine learning pipeline, from data preprocessing to model evaluation.
 
-**Example:** Work through the complete rain prediction project in the [Rain_Prediction_Project.ipynb](notebooks/Rain_Prediction_Project.ipynb) notebook.
+**Example:** Work through the complete project in the [Titanic.ipynb](notebooks/Titanic.ipynb) notebook.
 
 ## Notebooks
 
