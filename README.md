@@ -1,4 +1,4 @@
-# Python_ML
+# Python Machine Learning Complete Guide
 
 This repository contains a collection of Python notebooks illustrating fundamental concepts and practical applications in machine learning. It is structured into five modules, each focusing on a specific area within the field.
 
